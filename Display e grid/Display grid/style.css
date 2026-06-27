@@ -1,0 +1,13 @@
+@charset "UFT-8";
+
+.conteiner {
+    display: grid;
+    grid-template-columns: 2fr 1fr 3fr;
+    grid-template-rows: 100px 100px;
+    background-color: aqua;
+    gap: 20px;
+}
+
+.itens {
+    background-color: gray;
+}

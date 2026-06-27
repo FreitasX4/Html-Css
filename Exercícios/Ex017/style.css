@@ -1,0 +1,21 @@
+body {
+    
+     background-image: linear-gradient(to left,#D8CC34, #b39c4d);
+     
+}
+h1,h2 {
+    text-align: center;
+
+
+}
+main {
+
+    text-align: justify;
+    background-color: white;
+    color: red;
+    margin: auto;
+    border-radius: 20px;
+    padding: 10px;
+    
+    
+}

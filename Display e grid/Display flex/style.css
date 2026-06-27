@@ -1,0 +1,12 @@
+@charset "UFT-8";
+
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 600px;
+    height: 100px;
+    background-color: lightgreen;
+    gap: 200px;
+}
+
