@@ -3,10 +3,10 @@
 .conteiner {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    width: 600px;
+    justify-content: space-between;
+    width: auto;
     height: 100px;
-    background-color: lightgreen;
-    gap: 200px;
+    background-color: rgb(19, 151, 174);
+    gap: 100px;
 }
 
